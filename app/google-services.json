@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "333100727570",
+    "firebase_url": "https://cmrlabscom-b308c.firebaseio.com",
+    "project_id": "cmrlabscom-b308c",
+    "storage_bucket": "cmrlabscom-b308c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333100727570:android:37cf70bc37a4f0dbe907cb",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.ig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8rnDlg7hQym3yeIYPODN4RdzSEepfVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333100727570:android:b2833d15a6fbf7d9e907cb",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.ntd2inr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8rnDlg7hQym3yeIYPODN4RdzSEepfVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333100727570:android:861001356a3f51c6e907cb",
+        "android_client_info": {
+          "package_name": "com.cmrlabs.ntdtoinr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk8rnDlg7hQym3yeIYPODN4RdzSEepfVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333100727570-rg3ev58uhgfsforhafb01i952eu999qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
